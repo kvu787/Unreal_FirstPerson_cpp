@@ -1,0 +1,8 @@
+# Visual Studio uses this folder to store user-specific settings.
+/.vs/
+
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/*.sln
